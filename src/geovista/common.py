@@ -766,7 +766,7 @@ def vectors_to_cartesian(
 
     Notes
     -----
-    .. versionadded:: 0.?.?
+    .. versionadded:: 0.5.0
 
     """
     # TODO: Argument checking ???
