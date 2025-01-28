@@ -807,7 +807,7 @@ class Transform:  # numpydoc ignore=PR01
 
                 # NOTE: the axes orientation is odd -- see "vectors_to_cartesian"
                 rotmat_to_standard_pole = Rotation.from_euler(
-                    "xy",
+                    "zy",
                     (
                         180,
                         -90,
